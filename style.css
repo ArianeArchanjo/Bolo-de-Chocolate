@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(223, 199, 172);
+}
+.container {
+    margin: 40px auto; /* topo/baixo = 40px, laterais = auto */
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 24px;
+    width: 450px;
+  }  
+.imagem-principal{
+    height: 300px;
+}
+.titulo {
+    color: rgb(104, 71, 50);
+}
+.texto {
+    color: rgb(71, 71, 71);
+}
